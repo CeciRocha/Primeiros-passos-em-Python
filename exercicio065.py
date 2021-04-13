@@ -16,4 +16,4 @@ while resposta == 'S':
         elif n<menor:
             menor=n
 print('Você digitou {} números. A média entre os valores digitados é igual a {:.2f}.'.format(count, media))
-print('O maior número digitado é {} e o menor {}.'.format(maior, menor))
+print('O maior número DIGITADO é {} e o menor {}.'.format(maior, menor))
